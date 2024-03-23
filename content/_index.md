@@ -5,7 +5,7 @@ description: "Welcome to the world of ecological modeling and data-driven wildli
 
 <br><br> 
 
-I specialize in crafting sophisticated models that empower effective decision-making in wildlife management. My work not only delves into understand wildlife populations and ecological systems but also focuses on developing tools (think apps, report generators, etc.) for replicable research, ensuring robustness and reliability in management strategies. Through innovative approaches and rigorous analysis, I aim to streamline the use of wildlife research for informed management decisions. Join me on this exiting journey as we harness the power of data to safeguard our natural world for generations to come. "
+I specialize in crafting sophisticated models that empower effective decision-making in wildlife management. My work not only delves into understanding wildlife populations and ecological systems but also focuses on developing tools (think apps, report generators, etc.) for replicable research, ensuring robustness and reliability in management strategies. Through innovative approaches and rigorous analysis, I aim to streamline the use of wildlife research for informed management decisions. Join me on this exiting journey as we harness the power of data to safeguard our natural world for generations to come. "
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
