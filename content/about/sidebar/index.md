@@ -14,6 +14,14 @@ link_list:
   url: https://en.wikipedia.org/wiki/Pastry
 - name: People
   url: https://en.wikipedia.org/wiki/People
+skills:
+- name: Technical
+  items: 
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
 ---
 
 ** index doesn't contain a body, just front matter above.
