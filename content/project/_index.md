@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Project Portfolio
+description: "My portfolio includes abstracts, published papers, and products for research I have contributed to, as well as a collection of online educational resources I have created."
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
