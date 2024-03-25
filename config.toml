@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ackeeve.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Allison Keever, PhD"
@@ -98,10 +98,10 @@ enableEmoji = true
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/cohenwildlab/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+  #[[params.social]]
+   #   icon      = "twitter" # icon name without the 'fa-'
+    #  icon_pack = "fab"
+     # url       = "https://twitter.com/hashtag/apéro"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -121,7 +121,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "uploads/cv.pdf"
+      url       = "/uploads/ACKeever_CV.pdf"
 
 [taxonomies]
   category = "categories"
