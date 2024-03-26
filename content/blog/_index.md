@@ -11,10 +11,12 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Blog
+  title: Digital Garden 
   description: |
-    This blog is my digital garden. Where ideas can grow and evolve.
-    <br><br>
+    This blog is my digital garden. Where ideas can grow and evolve. You will find an assortment of my thoughts, ideas, and experiences, as well as updates on recent projects.  
+    <br>
+    "Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden." 
+    <br><br><br>
     <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
   author: "Allison Keever"
   text_link_label: Subscribe via RSS

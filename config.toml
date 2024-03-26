@@ -157,7 +157,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Consulting"
     title = "Consulting"
-    url = "/consut/"
+    url = "/consult/"
     weight = 6
     
   # Configure footer  
