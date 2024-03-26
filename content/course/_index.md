@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio
+title: Course Materials
 description: "My portfolio includes abstracts, published papers, and products for research I have contributed to, as well as a collection of online educational resources I have created."
 author: ""
 show_post_thumbnail: true

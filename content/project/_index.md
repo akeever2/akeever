@@ -1,6 +1,7 @@
 ---
 title: Project Portfolio
-description: "My portfolio includes abstracts, published papers, and products for research I have contributed to, as well as a collection of online educational resources I have created."
+description: |
+  My portfolio contains abstracts, published papers, and products for past and current research I have contributed to, as well as a collection of online educational resources I have created. More educational resources can be found in the Courses and Workshop sections listed above.
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
@@ -10,12 +11,10 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Project Portfolio
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    My portfolio contains abstracts, published papers, and products for past and current research I have contributed to, as well as a collection of online educational resources I have created. More educational resources can be found in my [course materials](/course) and [workshops](/talk).
+  author: ""
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
