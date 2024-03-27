@@ -4,15 +4,19 @@ author: "Allison Keever"
 role: "Wildlife Ecology | Data Science"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+show_audio_link: false
+audio_link_label: ""
+link_list_label: "AREAS OF EXPERTISE" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
+- name: R and R Shiny Development
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
+- name: Statistical Methods and Modeling
   url: https://en.wikipedia.org/wiki/Pastry
-- name: People
+- name: Bayesian Analyses
+  url: https://en.wikipedia.org/wiki/People
+- name: Structured Decision Making
+  url: https://en.wikipedia.org/wiki/People
+- name: Adaptive Management
   url: https://en.wikipedia.org/wiki/People
 skills:
 - name: Technical

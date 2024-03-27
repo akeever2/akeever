@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Let's work together!"
 description: |
-  About Allison Keever.
+  Information for consultations
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

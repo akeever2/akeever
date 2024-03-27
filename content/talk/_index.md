@@ -1,7 +1,7 @@
 ---
 title: Workshops & Talks
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  This is a home for talks, workshops, or other events, each linked with accompanying materials. 
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
@@ -14,12 +14,7 @@ layout: list # list, list-sidebar
 sidebar: 
   title: Workshops & Talks
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
-    
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
+    This is a home for talks, workshops, or other events, each linked with accompanying materials. 
   author: ""
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
