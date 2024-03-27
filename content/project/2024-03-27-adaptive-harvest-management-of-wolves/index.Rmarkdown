@@ -17,6 +17,21 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
+- icon: newspaper
+  icon_pack: far
+  name: Blog post
+  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+output:
+  blogdown::html_page:
+    toc: true
+    number_sections: true
+    toc_depth: 1
 ---
 
 Seeing if this works
+
+# 1 section  
+
+# 2 section  
+
+More text
