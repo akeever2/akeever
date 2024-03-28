@@ -14,9 +14,9 @@ link_list:
   url: https://en.wikipedia.org/wiki/Pastry
 - name: Bayesian Analyses
   url: https://en.wikipedia.org/wiki/People
-- name: Structured Decision Making
+- name: Structured Decision Making & Adaptive Management
   url: https://en.wikipedia.org/wiki/People
-- name: Adaptive Management
+- name: Population Modeling and Estimation
   url: https://en.wikipedia.org/wiki/People
 skills:
 - name: Technical
