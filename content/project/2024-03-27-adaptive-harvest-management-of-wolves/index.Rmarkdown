@@ -15,10 +15,10 @@ tags:
   - Gray wolves
   - Population ecology 
   - Recruitment
-  - PhD Research
   - Adaptive harvest management
   - Stakeholder values
   - Integrated population models
+  - Monitoring
 links:
 - icon: book-open
   icon_pack: fas
@@ -38,6 +38,12 @@ output:
     number_sections: true
     toc_depth: 1
 ---
+## Highlights  
+
+- Developed integrated population models to estimate demographic rates of wolves in absence of recruitment data, improving monitoring of the elusive carnivore  
+- Expanded on traditional integrated population models by including hierarchical demography to more accurately model social species  
+- Incorporated societal, biological, and political objectives to develop an adaptive harvest management framework for wolves to help guide harvest regulation decisions  
+- Developed a Shiny App to allow managers to evaluate other harvest regulations in the decision making framework  
 
 ## Wolves unleashed  
 
@@ -53,7 +59,12 @@ For my PhD research, our research initiative embarked on a quest to unravel the 
 
 Our research aimed to delve into the intricate dynamics governing the recruitment of wolves, discerning the interplay between intrinsic and extrinsic factors. We hypothesized that recruitment variation in wolves was influenced by a combination of internal and external factors. To test these hypotheses, we developed an integrated population model (IPM) tailored for estimating wolf recruitment in Montana from 2007 to 2018. Our methodological framework entailed adapting traditional IPM structures to accommodate hierarchical demography, incorporating both population-level and within-pack dynamics. Leveraging estimates of abundance and pack counts from ongoing monitoring efforts, coupled with GPS and VHF radiocollar data, we constructed a comprehensive model to elucidate recruitment patterns amidst varying environmental and anthropogenic pressures. We used Bayesian inference techniques to tease out the relative importance of covariates and inform decision-making in wolf management strategies.
 
+![Integrated population model](DAG.png)
+
+
 In parallel, we developed an adaptive management (AM) framework to navigate the complex landscape of wolf conservation, integrating biological imperatives with societal values in a transparent decision-making process. Using stochastic dynamic programming optimization methods, we delineated optimal management actions tailored to specific population contexts, aiming to foster sustainable coexistence between wolves, their prey, and human communities. Through a combination of simulation and model updating, we sought to refine our understanding of wolf population dynamics, paving the way for informed and adaptive management strategies in the face of uncertainty.
+
+![Adaptive management cycle](AM.png)
 
 
 ## Unveiling the mysteries of wolf management: insights from a multi-faceted study  
@@ -63,6 +74,8 @@ In a multifaceted exploration of gray wolf management dynamics, this study delve
 Leveraging empirical data from Montana and Idaho, we found intrinsic factors such as population size and pack size, alongside extrinsic factors like harvest, were primary drivers of recruitment variation. Despite harvest reducing pup recruitment and adult survival, the population managed to maintain relative stability, highlighting the nuanced dynamics at play.
 
 Additionally, we pioneered an AM framework tailored for wolf management, integrating biological and societal objectives while navigating uncertainties. Through stochastic dynamic programming and passive adaptive learning, optimal harvest regulations were delineated, reflecting the evolving needs of dynamic ecological systems.
+
+![Optimal decisions](Decision.png)
 
 By unraveling the complexities of wolf management, this research provides valuable insights for stakeholders and policymakers, emphasizing the importance of holistic approaches that consider both ecological and socio-political factors. From refining population models to guiding adaptive management strategies, this study offers a comprehensive roadmap for sustainable wolf conservation and management in the face of diverse challenges and uncertainties. 
 

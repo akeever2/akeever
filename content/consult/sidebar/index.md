@@ -9,15 +9,15 @@ audio_link_label: ""
 link_list_label: "AREAS OF EXPERTISE" # bookmarks, elsewhere, etc.
 link_list:
 - name: R and R Shiny Development
-  url: https://en.wikipedia.org/wiki/Paris
+  url: /categories/r-and-r-shiny-development/
 - name: Statistical Methods and Modeling
-  url: https://en.wikipedia.org/wiki/Pastry
+  url: /categories/ecological-modeling/
 - name: Bayesian Analyses
-  url: https://en.wikipedia.org/wiki/People
+  url: /categories/bayesian-analyses/
 - name: Structured Decision Making & Adaptive Management
-  url: https://en.wikipedia.org/wiki/People
+  url: /categories/sdm-and-am/
 - name: Population Modeling and Estimation
-  url: https://en.wikipedia.org/wiki/People
+  url: /categories/ecological-modeling/
 skills:
 - name: Technical
   items: 
