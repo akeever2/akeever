@@ -18,7 +18,7 @@ I prefer projects conducted primarily in R as that is my area of expertise. howe
 
 # <i class="fas fa-solid fa-chalkboard"></i> Private Trainings  
 
-If you or your organization are looking to level-up your R and data science skills, perhaps the time is right for a private training. This can take the form of an intensive 1-5 day workshop, a series of short weekly or biweekly meetings, or a virtual course designed to be complete by a deadline. Training material can be tailored to the needs and data structures of your projects.  
+If you or your organization are looking to level-up your R and data science skills, perhaps the time is right for a private training. This can take the form of an intensive 1-5 day workshop, a series of short weekly or biweekly meetings, or a virtual course designed to be completed by a deadline. Training material can be tailored to the needs and data structures of your projects.  
 
 Check out my [course](/course), [workshop](/talk), and [project](/project) materials for a sampling of what I can create for you.  
 

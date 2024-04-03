@@ -1,11 +1,14 @@
 ---
 title: Population and Community Ecology
 subtitle: "EVSB 7150"
-excerpt: "A focus on the quantitative aspect of population and community ecology. This class focuses on estimating and modeling demographic rates and population and community dynamics."
+excerpt: "Course materials for population and community ecology. This class focuses on estimating and modeling demographic rates and population and community dynamics."
 author: Allison Keever
 date: '2024-04-03'
 slug: population-and-community-ecology
-categories: []
+categories: 
+  - Ecological modeling
+  - Bayesian analyses 
+  - R and R Shiny development 
 tags: []
 layout: single-sidebar
 links:
