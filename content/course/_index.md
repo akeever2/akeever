@@ -12,7 +12,7 @@ layout: list-grid # list, list-sidebar, list-grid
 sidebar: 
   title: Courses
   description: |
-    Here you will find course materials and public-facing websites and GitHub repositories for my courses. I am always happy to share non-public materials, such as exams and assignment solutions, with fellow educators.
+    Here you will find course materials, public-facing websites, and GitHub repositories for my courses. I am always happy to share non-public materials, such as exams and assignment solutions, with fellow educators.
   author: ""
   text_link_label: ""
   text_link_url: ""
