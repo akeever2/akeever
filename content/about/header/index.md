@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 Welcome, and thank you for visiting my website! 
 
-I am a postdoctoral researcher with experience in ecological modeling, quantitative decision analysis, and data science. I am passionate about applied research and creating user-friendly tools for wildlife management. 
+I am a postdoctoral researcher with experience in ecological modeling, quantitative decision analysis, and data science. I am passionate about applied research and creating user-friendly tools for wildlife conservation. 
 
 Currently, I am working at Tennessee Tech University with the [Cohen Ecology Lab](https://www.cohenwildlifelab.com/). As a postdoc with a specialty in ecological modeling, I get to dabble in all sorts of [research projects](/project) ranging from habitat selection and landscape ecology of mallards to adaptive harvest management of white-tailed deer and wild turkeys. Check out my most recent exploits below. 
 
